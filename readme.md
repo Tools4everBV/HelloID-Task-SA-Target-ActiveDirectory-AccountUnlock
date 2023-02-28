@@ -9,7 +9,7 @@
 
 ## Description
 
-This code snippet will unlock a user account within Active Directory and executes the following tasks:
+This code snippet will unlock an user account within Active Directory and executes the following tasks:
 
 1. Define a hash table `$formObject`. The keys of the hash table represent the properties of the `Get-ADUser` cmdlet, while the values represent the values entered in the form.
 
